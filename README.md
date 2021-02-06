@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## ⚡ Skills 
-High-level skills in development in the Python and JavaScript (NodeJS) programming languages. Extensive experience in creating various scale web applications on the Django / Flask / Express.JS frameworks. In the course of various projects, I often work with the necessary APIs (Facebook API, Freelancehunt API, Telegram API, etc.). Also, I am developing my API on the Django REST Framework. While working on applications, I adhere to the principles of SOLID and OOP methodology. I understand the design patterns well. I easily implement the desired sorting algorithm, recursion, etc. I have experience in working with multi-threading, multiprocessing and asynchronous.
+High-level skills in development in the Python and JavaScript (NodeJS) programming languages. Extensive experience in creating various scale web applications on the Django / Flask / Express.JS frameworks. In the course of various projects, I often work with the necessary APIs (Facebook API, Freelancehunt API, Telegram API, etc.). Also, I am developing my own APIs on the Django REST Framework. While working on applications, I adhere to the principles of SOLID and OOP methodology. I understand the design patterns well. I easily implement the desired sorting algorithm, recursion, etc. I have experience in working with multi-threading, multiprocessing and asynchronous.
 
 ## 💻 Technology stack
 1. Python, JavaScript, TypeScript.
