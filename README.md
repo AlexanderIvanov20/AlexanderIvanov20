@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## Skills ⚡
+## ⚡ Skills 
 High-level skills in development in the Python and JavaScript (NodeJS) programming languages. Extensive experience in creating various scale web applications on the Django / Flask / Express.JS frameworks. In the course of various projects, I often work with the necessary APIs (Facebook API, Freelancehunt API, Telegram API, etc.). Also, I am developing my API on the Django REST Framework. While working on applications, I adhere to the principles of SOLID and OOP methodology. I understand the design patterns well. I easily implement the desired sorting algorithm, recursion, etc. I have experience in working with multi-threading, multiprocessing and asynchronous.
 
 ## Technology stack 💻
@@ -15,7 +15,7 @@ High-level skills in development in the Python and JavaScript (NodeJS) programmi
 9. Azure (Blob, VM, Functions), Docker, Docker-Compose, AWS (EC2, ECS, S3, RDS, Lambda).
 10. SOLID, OOP, SDLC, Git.
 
-## Experience 💼
+## 💼 Experience 
 `Freelancehunt`, Ukraine — *Junior Python Developer / Junior Node.JS Developer*  
 *May 2019 - PRESENT*  
 - Developing various web applications. API creation.
@@ -28,7 +28,7 @@ High-level skills in development in the Python and JavaScript (NodeJS) programmi
 - BackEnd and FrontEnd development.  
 - Spending DevOps.  
 
-## Contacts 📞
+## 📞 Contacts 
 1. **LinkedIn** - https://www.linkedin.com/in/alexanderivanov50/
 2. **GitHub** - https://github.com/AlexanderIvanov20
 3. **Freelance profile** - https://freelancehunt.com/freelancer/AlexHardDiskDrive.html
