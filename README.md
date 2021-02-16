@@ -16,17 +16,17 @@ High-level skills in development in the Python and JavaScript (NodeJS) programmi
 10. SOLID, OOP, SDLC, Git.
 
 ## 💼 Experience 
-`Freelancehunt`, Ukraine — *Junior Python Developer / Junior Node.JS Developer*  
-*May 2019 - PRESENT*  
-- Developing various web applications. API creation.
-- Spending DevOps.  
-- Supporting the project after the end of development.  
-
 `Sigma Software Group`, Ukraine — *Python Intern / Full Stack Python Developer*  
 *October 2020 - PRESENT*  
 - Application architecture create.  
 - BackEnd and FrontEnd development.  
 - Spending DevOps.  
+
+`Freelancehunt`, Ukraine — *Junior Python Developer / Junior Node.JS Developer*  
+*May 2019 - PRESENT*  
+- Developing various web applications. API creation.
+- Spending DevOps.  
+- Supporting the project after the end of development.  
 
 ## 📞 Contacts 
 1. **LinkedIn** - https://www.linkedin.com/in/alexanderivanov50/
