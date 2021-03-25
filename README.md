@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## ⚡ Skills 
-High-level skills in development in the Python and JavaScript (NodeJS) programming languages. Extensive experience in creating various scale web applications on the Django / Flask / Express.JS frameworks. In the course of various projects, I often work with the necessary APIs (Facebook API, Freelancehunt API, Telegram API, etc.). Also, I am developing my own APIs on the Django REST Framework. While working on applications, I adhere to the principles of SOLID and OOP methodology. I understand the design patterns well. I easily implement the desired sorting algorithm, recursion, etc. I have experience in working with multi-threading, multiprocessing and asynchronous.
+I am a Full-Stack developer with 2+ years of experience in IT. High development skills in Python, JavaScript (NodeJS), TypeScript programming languages. Extensive experience in creating web applications of various scales using Django / Flask / Express.JS frameworks as a backend, as well as ReactJS / Redux as a frontend. Designed and developed projects with different required APIs. Participated in the design, development, and testing phases of the application using the principles of SOLID and OOP. I have a good knowledge of security, networking, and testing methods. Good understanding of design patterns, sorting algorithm, recursion, multithreading, multiprocessing, and asynchrony. I am sociable and organized, I work well in a team, I have the critical thinking, and know how to solve complex problems.
 
 ## 💻 Technology stack
 1. Python, JavaScript, TypeScript.
