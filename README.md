@@ -16,7 +16,7 @@ I am a Full-Stack developer with 2+ years of experience in IT. High development 
 10. SOLID, OOP, SDLC, Git.
 
 ## 💼 Experience 
-`Sigma Software Group`, Ukraine — *Python Intern / Full Stack Python Developer*  
+`Sigma Software Group`, Ukraine — *Junior Software Developer / Full Stack Python Developer*  
 *October 2020 - PRESENT*  
 - Application architecture create.  
 - BackEnd and FrontEnd development.  
