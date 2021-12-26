@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## ⚡ Skills 
-I am a Full-Stack developer with 2+ years of experience in IT. High development skills in Python, JavaScript (NodeJS), TypeScript programming languages. Extensive experience in creating web applications of various scales using Django / Flask / Express.JS frameworks as a backend, as well as ReactJS / Redux as a frontend. Designed and developed projects with different required APIs. Participated in the design, development, and testing phases of the application using the principles of SOLID and OOP. I have a good knowledge of security, networking, and testing methods. Good understanding of design patterns, sorting algorithm, recursion, multithreading, multiprocessing, and asynchrony. I am sociable and organized, I work well in a team, I have the critical thinking, and know how to solve complex problems.
+I am a Full-Stack developer with 3 years of experience in IT. I have good skills in Python development and working with Django (Django REST Framework) and Flask frameworks. I can develop in the front-end Javascript / Typescript programming language. Extensive experience in implementing client-server applications and REST API services. I have experience with SQL / NoSQL databases such as MySQL / PostgreSQL and MongoDB / Redis. I am a good team player with strong communication skills, always striving to exceed expectations. Also, I can work in an environment that requires independent problem-solving skills and focuses on tight deadlines.
 
 ## 💻 Technology stack
 1. Python, JavaScript, TypeScript.
@@ -16,13 +16,13 @@ I am a Full-Stack developer with 2+ years of experience in IT. High development 
 10. SOLID, OOP, SDLC, Git.
 
 ## 💼 Experience 
-`Sigma Software Group`, Ukraine — *Software Developer / Full Stack Python Developer*  
+`Sigma Software Group`, Ukraine — *Software Developer*  
 *October 2020 - PRESENT*  
 - Application architecture create.  
 - BackEnd and FrontEnd development.  
 - Spending DevOps.  
 
-`Freelancehunt`, Ukraine — *Python Developer / Node.JS Developer*  
+`Freelancehunt`, Ukraine — *Software Developer*  
 *May 2019 - PRESENT*  
 - Developing various web applications. API creation.
 - Spending DevOps.  
@@ -32,4 +32,3 @@ I am a Full-Stack developer with 2+ years of experience in IT. High development 
 1. **LinkedIn** - https://www.linkedin.com/in/alexanderivanov50/
 2. **GitHub** - https://github.com/AlexanderIvanov20
 3. **Freelance profile** - https://freelancehunt.com/freelancer/AlexHardDiskDrive.html
-4. **Telegram** - https://t.me/AlexanderIvanov50
